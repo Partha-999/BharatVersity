@@ -3,13 +3,13 @@
   "type": "module",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://partha-999.github.io/BharatVersity",  // Add this line
+  "homepage": "https://partha-999.github.io/BharatVersity", 
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "predeploy": "npm run build",  // Add this script
-    "deploy": "gh-pages -d build" // Add this script
+    "predeploy": "npm run build", 
+    "deploy": "gh-pages -d build" 
   },
   "dependencies": {
     "@radix-ui/react-alert-dialog": "^1.0.5",
